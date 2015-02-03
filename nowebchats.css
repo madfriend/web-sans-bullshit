@@ -1,0 +1,20 @@
+#jivo-chat,
+#jivo_chat_widget,
+
+.lt-chat, 
+.lt-frame,
+.lt-invite,
+
+.webim_button,
+.webim_invitediv,
+
+.stream-wood-chat,
+.stream-wood-invitation,
+
+#rh-snippet
+
+
+{
+  display: none !important;
+}
+
