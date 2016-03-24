@@ -15,10 +15,17 @@
 
 #mibew_tracking,
 
-#leadia_science_widget, #leadia_widget, .leadia-widget
+#leadia_science_widget, #leadia_widget, .leadia-widget,
 
+#intercom-container, .intercom-container
 
 {
   display: none !important;
+  position: absolute !important;
+  top: -9999px !important;
+  left: -9999px !important;
+  z-index: -1 !important;
+  opacity: 0 !important;
+  visibility: hidden !important;
 }
 
