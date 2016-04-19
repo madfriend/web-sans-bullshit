@@ -1,9 +1,10 @@
 {
    "name": "Remove f-ing web chats",
-   "version": "1.1.3",
+   "version": "1.2.0",
    "manifest_version": 2,
    "content_scripts": [{
       "matches": ["<all_urls>"],
-      "css": ["nowebchats.css"]
+      "css": ["nowebchats.css"],
+      "all_frames": true
    }]
 }
