@@ -25,7 +25,9 @@
 
 #leadia_science_widget, #leadia_widget, .leadia-widget,
 
-#intercom-container, .intercom-container
+#intercom-container, .intercom-container,
+
+#pozvonim-button, .pozvonim-button-wrapper, #pozvonim-wrapper
 
 {
   display: none !important;
