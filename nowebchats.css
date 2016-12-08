@@ -27,7 +27,10 @@
 
 #intercom-container, .intercom-container,
 
+.callbackkiller,
+
 #pozvonim-button, .pozvonim-button-wrapper, #pozvonim-wrapper
+
 
 {
   display: none !important;
