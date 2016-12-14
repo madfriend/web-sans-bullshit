@@ -3,6 +3,9 @@
 #jivo-iframe-container,
 #jivo-chat-container,
 
+#onlineSupportContainer, #supportTrigger, .support-trigger,
+#supportNewMessage, #onlineSupportClonePageIframe, 
+
 .lt-chat,
 .lt-frame,
 .lt-invite,
