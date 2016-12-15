@@ -34,8 +34,9 @@
 
 .callbackkiller,
 
-#pozvonim-button, .pozvonim-button-wrapper, #pozvonim-wrapper
+#pozvonim-button, .pozvonim-button-wrapper, #pozvonim-wrapper,
 
+#callservice-widget-window, #callservice-widget-container,
 
 {
   display: none !important;
