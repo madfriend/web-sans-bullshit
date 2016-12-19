@@ -38,6 +38,8 @@
 
 #callservice-widget-window, #callservice-widget-container,
 
+.imcallask-btn-mini, .imcallask-btn-mini-phone
+ 
 {
   display: none !important;
   position: absolute !important;
