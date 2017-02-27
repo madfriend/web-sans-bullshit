@@ -1,0 +1,8 @@
+{
+  "name": "Web sans bullshit",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+}
