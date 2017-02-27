@@ -3,13 +3,15 @@
 #jivo-iframe-container,
 #jivo-chat-container,
 
-#blinger-widget-c, .blinger-ring, .blinger-btn, 
+#blinger-widget-c, .blinger-ring, .blinger-btn,
 
 #onlineSupportContainer, #supportTrigger, .support-trigger,
-#supportNewMessage, #onlineSupportClonePageIframe, 
+#supportNewMessage, #onlineSupportClonePageIframe,
 
-.callibri-module-area, #callibri-module-area, .callibri-micro, 
+.callibri-module-area, #callibri-module-area, .callibri-micro,
 #callibri_micro, #callibri_feedback,
+
+.comagic-banner-container, .comagic-component, #comagic-cmp-0, #comagic-cmp-1,
 
 a[id^=mightyCallC2C],
 
@@ -57,12 +59,12 @@ a[id^=mightyCallC2C],
 
 .sendpulse-prompt, .sendpulse-popover,
 
-.pw-confirm, .pw-widgets, 
+.pw-confirm, .pw-widgets,
 
 #vk_community_messages, #wcm_button, #wcm_chat,
 
 .imcallask-btn-mini, .imcallask-btn-mini-phone
- 
+
 {
   display: none !important;
   position: absolute !important;
