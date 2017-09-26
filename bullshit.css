@@ -71,6 +71,8 @@ a[id^=mightyCallC2C],
 
 .PRVD_chatWindow, .PRVD_chatHeader, .PRVD_chatBody, 
 
+.b-chat, .js-help-chat, 
+
 .imcallask-btn-mini, .imcallask-btn-mini-phone
 
 {
@@ -78,9 +80,12 @@ a[id^=mightyCallC2C],
   position: absolute !important;
   top: -9999px !important;
   left: -9999px !important;
-  z-index: -1 !important;
+  z-index: -100 !important;
   opacity: 0 !important;
   visibility: hidden !important;
   zoom: 0 !important;
+  transform: scale(0.01) translate(-9999) !important;
+  font: 0/0 !important;
+  overflow: hidden !important;
 }
 
