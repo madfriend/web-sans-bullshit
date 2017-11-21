@@ -1,6 +1,7 @@
 #jivo-chat,
 #jivo_chat_widget,
 #jivo-iframe-container,
+.jivo-state-widget,
 #jivo-chat-container,
 
 #lb_button-wrapper, .lb-widget-panel, .lb_wrapper,
@@ -64,6 +65,8 @@ a[id^=mightyCallC2C],
 .sendpulse-prompt, .sendpulse-popover,
 
 .pw-confirm, .pw-widgets,
+
+#callbut-mini, .callbut-mini-phone, 
 
 #vk_community_messages, #wcm_button, #wcm_chat,
 
