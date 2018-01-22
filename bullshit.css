@@ -76,12 +76,18 @@ a[id^=mightyCallC2C],
 
 .b-chat, .js-help-chat, 
 
-.imcallask-btn-mini, .imcallask-btn-mini-phone
+.imcallask-btn-mini, .imcallask-btn-mini-phone,
+
+.lpt-widget, #lptWidget, .lpt-sidebar, .lpt-sidebar-container
 
 {
   display: none !important;
   position: absolute !important;
+  width: 0 !important;
+  height: 0 !important;
   top: -9999px !important;
+  margin-top: -9999px !important;
+  margin-left: -9999px !important;
   left: -9999px !important;
   z-index: -100 !important;
   opacity: 0 !important;
